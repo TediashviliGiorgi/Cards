@@ -42,6 +42,7 @@
   }
   
   .panel.active {
+    transition: 1s ease-in;
     flex: 5;
   }
   
